@@ -1,5 +1,6 @@
 {
   "name": "tahoe-yosemite-trail",
+  "homepage": "http://gpbmike.github.io/tahoe-yosemite-trail",
   "version": "0.0.1",
   "private": true,
   "devDependencies": {
