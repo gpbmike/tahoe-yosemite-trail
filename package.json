@@ -10,10 +10,11 @@
   "dependencies": {
     "leaflet": "^0.7.7",
     "leaflet-draw": "^0.3.0",
+    "lodash": "^4.14.1",
     "react": "^15.2.1",
     "react-dom": "^15.2.1",
     "react-leaflet": "^0.12.1",
-    "react-leaflet-draw": "gpbmike/react-leaflet-draw#0.12.1-support-build"
+    "react-leaflet-draw": "^0.7.1"
   },
   "scripts": {
     "start": "react-scripts start",
